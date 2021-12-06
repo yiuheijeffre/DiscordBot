@@ -32,4 +32,4 @@ bot.on('message', message => {
 
 
 // Uploads world file
-bot.login('Nzk3MTAyMjAwMjEyMDI5NTIx.X_hlRQ.3oh6GYeE21V8Wx0BAIAX_a3_PmU');
+bot.login(token);
